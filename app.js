@@ -191,8 +191,8 @@ checkout_less.addEventListener('click',()=>{
 
 const images = [
     "url(img/three-dimensional-house-model.jpg)no-repeat center/cover",
-    "url(img/3d-rendering-house-model (1).jpg)no-repeat center/cover",
-    "url(img/3d-rendering-house-model (2).jpg)no-repeat center/cover"
+    "url(img/3d-rendering-house-model (2).jpg)no-repeat center/cover",
+    "url(img/modern-house-architectural-design.jpg)no-repeat center/cover"
 ]
 
 let index = 1;
