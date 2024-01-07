@@ -223,4 +223,5 @@ btn_right.addEventListener('click',()=>{
     }
 
     style.setProperty('--background', images[index])
+    
 })
